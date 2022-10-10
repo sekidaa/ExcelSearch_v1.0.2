@@ -5,7 +5,7 @@
 そんなあなたに仕様差分サーチ！
   
 # Installation
-とくになし
+ExcelSearch_v1.0.2のディレクトリごとcloneすべし
  
 # Usage
 1.仕様差分.exeを実行する
